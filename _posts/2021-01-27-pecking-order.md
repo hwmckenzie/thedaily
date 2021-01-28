@@ -13,4 +13,4 @@ Today's photo is again from last January. It is of Revi demonstrating how fun wa
 Hugs,<br />
 Hannah
 
-![2021-1-27]({{ site.url }}{{ site.baseurl }}/assets/images/2021-1-27.jpg)
+![2021-1-27]({{ site.url }}{{ site.baseurl }}/assets/images/2021-1-27.JPG)
