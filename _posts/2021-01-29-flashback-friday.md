@@ -10,7 +10,7 @@ Not too much news from today. This weekend, including today, I am attending Clic
 
 Today's photo is a bit of a flashback. For some reason this morning I was thinking about our black lab, Spike. So I decided he would get to star in the photo. Here he is in 2015 at the cabin at Lake Wabamun. Chris lived there that summer with Spike and Sadie, while Seuss and I traveled back and forth from stints sniffing boats in Vermilion. All the dogs enjoyed that summer and lake life quite a bit, although Spike never went swimming. Despite his genetics it just wasn't his thing!
 
-Hugs,<br \>
+Hugs,<br />
 Hannah
 
 ![2021-1-29]({{ site.url }}{{ site.baseurl }}/assets/images/2021-1-29.JPG)
