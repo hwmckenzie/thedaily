@@ -13,4 +13,4 @@ Today's photo is of another black lab from my past. This is Sabie, my first dog.
 Hugs,<br />
 Hannah
 
-![2021-1-30]({{ site.url }}{{ site.baseurl }}/assets/images/2021-1-30.JPG)
+![2021-1-30]({{ site.url }}{{ site.baseurl }}/assets/images/2021-01-30.jpg)
