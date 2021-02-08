@@ -22,4 +22,4 @@ Today's photo is of the chickens awaiting favourable conditions for a return to 
 Hugs,<br />
 Hannah
 
-![2021-2-7]({{ site.url }}{{ site.baseurl }}/assets/images/2021-1-7.JPG)
+![2021-2-7]({{ site.url }}{{ site.baseurl }}/assets/images/2021-2-7.JPG)
