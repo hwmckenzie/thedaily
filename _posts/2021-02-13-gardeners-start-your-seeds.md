@@ -15,6 +15,6 @@ To finish off the day I attempted a new natural remedy for Seuss's itchiness. He
 
 Today's photo is from our evening walk. Though it was cold, we all enjoyed finding the lovely patches of sun along our route.
 
-Hugs<br />
+Hugs,<br />
 Hannah
 ![2021-2-13]({{ site.url }}{{ site.baseurl }}/assets/images/2021-2-13.JPG)
