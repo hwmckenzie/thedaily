@@ -11,7 +11,7 @@ This morning on our walk the dogs found a dead coyote. There is some uncertainty
 
 I made some long awaited progress on my permaculture project this afternoon. If you are looking for more to read you can take a look at my newest post on [The Property Report](https://propertyreport.upnix.com/), which includes an aerial tour of the property. I am no Steven Spielberg or David Attenborough, but I thought I did alright!
 
-Today's photo is in the artistic direction. I have seen this lichen a few times now on my evening walks, and tonight I felt it was warm enough that I could take my mitts off quickly to take a photo! It really wasn't very warm, but apparently my body has recalibrated, as long as it is not standing in the wind.
+Today's photo is in the artistic direction. I have seen this lichen a few times now on my evening walks, and tonight I felt it was warm enough that I could take my mitts off quickly to take a photo! It really wasn't very warm, but apparently my body has re-calibrated, as long as it is not standing in the wind.
 
 Hugs,<br />
 Hannah
