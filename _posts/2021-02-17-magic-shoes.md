@@ -16,4 +16,4 @@ Today's photo is an example of what happens when you are trying to take artistic
 Hugs,<br />
 Hannah
 
-![2021-2-17]({{ site.url }}{{ site.baseurl }}/assets/images/2021-2-17.jpg)
+![2021-2-17]({{ site.url }}{{ site.baseurl }}/assets/images/2021-2-17.JPG)
