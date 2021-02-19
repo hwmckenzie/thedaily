@@ -14,4 +14,4 @@ Today's photo is of Revi enjoying the view from our loft window. Chris brought h
 Hugs,<br />
 Hannah
 
-![2021-2-18]({{ site.url }}{{ site.baseurl }}/assets/images/2021-2-18.JPG)
+![2021-2-18]({{ site.url }}{{ site.baseurl }}/assets/images/2021-2--18.JPG)
