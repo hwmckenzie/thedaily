@@ -18,4 +18,4 @@ Today's photo is Seuss's birthday post on the Government of Alberta's My Wild Al
 Hugs,<br />
 Hannah
 
-![2021-2-22]({{ site.url }}{{ site.baseurl }}/assets/images/2021-02-22.JPG)
+![2021-2-22]({{ site.url }}{{ site.baseurl }}/assets/images/2021-2-22.JPG)
