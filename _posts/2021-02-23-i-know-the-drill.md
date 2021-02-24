@@ -11,7 +11,7 @@ A much quieter day than yesterday. I was away for part of the day at the dentist
 
 Today's photo is of the chickens spending time foraging in the compost. Luckily for us our rooster does not seem to be the jealous type!
 
-Hugs,<break />
+Hugs,<br />
 Hannah
 
 ![2021-2-23]({{ site.url }}{{ site.baseurl }}/assets/images/2021-2-23.JPG)
