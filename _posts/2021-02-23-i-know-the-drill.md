@@ -14,4 +14,4 @@ Today's photo is of the chickens spending time foraging in the compost. Luckily 
 Hugs,<break />
 Hannah
 
-![2021-2-23]({{ site.url }}{{ site.baseurl }}/assets/images/2021-02-23.JPG)
+![2021-2-23]({{ site.url }}{{ site.baseurl }}/assets/images/2021-2-23.JPG)
