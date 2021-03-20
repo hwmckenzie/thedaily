@@ -17,6 +17,8 @@ And just as I finished writing this post I received a text from Alberta Health S
 
 Today's photo is of some common bearberry, or kinnikinnick, along one of our walking trails which is already starting to turn green.
 
+Also, Chris requested that I print a correction to yesterday's photo narrative. It turns out that his feet did get wet after all!
+
 Hugs,<br />
 Hannah
 
