@@ -16,4 +16,4 @@ Today's photo is of the rooster-dog cooling his waddles. Chris sent me this phot
 Hugs,<br />
 Hannah
 
-![2021-3-20]({{ site.url }}{{ site.baseurl }}/assets/images/2021-3-20.JPG)
+![2021-3-20]({{ site.url }}{{ site.baseurl }}/assets/images/2021-3-20.gif)
