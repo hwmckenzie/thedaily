@@ -13,9 +13,11 @@ They are very entertaining to watch. Instead of using a heat lamp, we built them
 
 The dogs find the chicks fascinating. Seuss and Revi spend hours staring into the brooder and listening to all the noises the chicks make. So far everyone has been very well-behaved, with only a few reminders to "be easy" and sometimes a "too much!".
 
+Revi also wanted me to tell everyone that on Sunday morning she found a porcupine, and displayed great sense and self-control! She barked, but did not bite it, and came when Chris called her. We were quite happy not to have a dog full of quills before 9am in the morning, and I expect our vet was as well!
+
 Today's photo is of two of the chicks enjoying a nap in the sunshine on top of their mama heating pad cave.
 
 Hugs,<br />
 Hannah
 
-![2021-3-24]({{ site.url }}{{ site.baseurl }}/assets/images/2021-3-24.JPG)
+![2021-3-24]({{ site.url }}{{ site.baseurl }}/assets/images/2021-03-24.JPG)
