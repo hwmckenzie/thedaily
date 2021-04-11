@@ -16,4 +16,4 @@ Today's photo is from our walk yesterday morning. Our dugout is thawing quickly,
 Hugs,<br />
 Hannah
 
-![2021-4-10]({{ site.url }}{{ site.baseurl }}/assets/images/2021-4-10.JPG)
+![2021-4-10]({{ site.url }}{{ site.baseurl }}/assets/images/2021-4-10.jpg)
