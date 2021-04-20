@@ -17,9 +17,9 @@ However, Chris had completed the chicks home and we moved them out, cleaned up o
 
 Despite the chicks moving back in, all of Chris's work was not lost. We have a hen who decided to go broody and has been sitting on eggs in one of our nest boxes for just over a week now. We decided that we'd move her into the new accommodation so she could have some privacy and peace from the other chickens. We moved her last night, so we know now that she is sitting on five eggs. She seems much happier, so hopefully that will increase the chances of some hatching successfully.
 
-Today's photo is of Broody Hen in her private suite. Even though she sill looks a little grumpy, I think she looks much less grumpy than she did when she was stuck in the coop with everyone else.
+Today's photo is of Broody Hen in her private suite. Even though she still looks a little grumpy, I think she looks much less grumpy than she did when she was stuck in the coop with everyone else.
 
 Hugs,<br />
 Hannah
 
-![2021-4-15]({{ site.url }}{{ site.baseurl }}/assets/images/2021-4-15.JPG)
+![2021-4-19]({{ site.url }}{{ site.baseurl }}/assets/images/2021-4-19.JPG)
