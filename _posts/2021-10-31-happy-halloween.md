@@ -11,11 +11,9 @@ Despite good progress on the winter coop, it is not quite move-in ready. I think
 
 We also have an update on the light sussex. We have found her a new flock. We will be exchanging her for another leghorn hen with a lady who lives just down the road from us. We met her as I had posted some egg cartons on the Innisfree facebook group. Maybe she will be a new friend!
 
-Today's photo is of a small pumpkin I carved to celebrate Halloween. 
+Today's photo is of a small pumpkin I carved to celebrate Halloween. He/she originally had two teeth, but we had a bit of a accident. 
 
 Hugs,<br />
 Hannah
 
 ![2021-10-31]({{ site.url }}{{ site.baseurl }}/assets/images/2021-10-31.JPG)
-
-Link example: [link](https://minimalistbaker.com/lentil-eggplant-lasagna/ "Link text")
