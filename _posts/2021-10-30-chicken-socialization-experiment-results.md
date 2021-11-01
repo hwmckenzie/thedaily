@@ -17,5 +17,3 @@ Hugs,<br />
 Hannah
 
 ![2021-10-30]({{ site.url }}{{ site.baseurl }}/assets/images/2021-10-30.jpg)
-
-Link example: [link](https://minimalistbaker.com/lentil-eggplant-lasagna/ "Link text")
