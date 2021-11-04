@@ -16,4 +16,4 @@ To wrap up the day, while I was driving home from fire practice I saw the northe
 Hugs,<br />
 Hannah
 
-![2021-11-03]({{ site.url }}{{ site.baseurl }}/assets/images/2021-11-03.JPG)
+![2021-11-03]({{ site.url }}{{ site.baseurl }}/assets/images/2021-11-03.jpg)
