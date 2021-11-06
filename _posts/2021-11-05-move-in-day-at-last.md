@@ -12,4 +12,4 @@ Today's photo is of a traffic jam I encountered yesterday when leaving Elk Islan
 Hugs,<br />
 Hannah
 
-![2021-11-05]({{ site.url }}{{ site.baseurl }}/assets/images/2021-11-05.JPG)
+![2021-11-05]({{ site.url }}{{ site.baseurl }}/assets/images/2021-11-05.jpg)
