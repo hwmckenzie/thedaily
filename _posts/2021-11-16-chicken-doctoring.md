@@ -14,4 +14,4 @@ Today's photo is of our Christmas lights. Originally I had planned not to turn t
 Hugs,<br />
 Hannah
 
-![2021-11-16]({{ site.url }}{{ site.baseurl }}/assets/images/2021-11.JPG)
+![2021-11-16]({{ site.url }}{{ site.baseurl }}/assets/images/2021-11-16.JPG)
