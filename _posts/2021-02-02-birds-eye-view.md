@@ -1,6 +1,5 @@
 ---
 title: "Bird's eye view"
-date: 2021-02-02 20:00:00 -0500
 categories:
 tags:
 ---
