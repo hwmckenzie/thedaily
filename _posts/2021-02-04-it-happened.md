@@ -1,6 +1,5 @@
 ---
 title: "It happened!"
-date: 2021-02-04 21:00:00 -0500
 categories:
 tags:
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Gardeners start your seeds"
-date: 2021-02-13 20:30:00 -0500
 categories:
 tags:
 ---

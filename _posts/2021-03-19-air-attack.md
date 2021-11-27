@@ -1,6 +1,5 @@
 ---
 title: "Air attack"
-date: 2021-03-19 21:00:00 -0600
 categories:
 tags:
 ---

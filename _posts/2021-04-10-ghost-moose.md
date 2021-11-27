@@ -1,6 +1,5 @@
 ---
 title: "Ghost moose"
-date: 2021-04-10 20:15:00 -0600
 categories:
 tags:
 ---

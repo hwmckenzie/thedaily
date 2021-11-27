@@ -1,6 +1,5 @@
 ---
 title: "Spring prophesy"
-date: 2021-03-04 21:00:00 -0700
 categories:
 tags:
 ---

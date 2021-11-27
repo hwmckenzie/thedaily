@@ -1,6 +1,5 @@
 ---
 title: "Evening dog walks"
-date: 2021-04-20 21:00:00 -0600
 categories:
 tags:
 ---

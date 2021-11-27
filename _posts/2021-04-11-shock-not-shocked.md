@@ -1,6 +1,5 @@
 ---
 title: "Shock, not shocked"
-date: 2021-04-11 21:00:00 -0600
 categories:
 tags:
 ---

@@ -1,6 +1,5 @@
 ---
 title: "In like a lamb, out like a lion"
-date: 2021-03-29 21:30:00 -0600
 categories:
 tags:
 ---

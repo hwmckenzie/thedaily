@@ -1,6 +1,5 @@
 ---
 title: "Vegetable dreams"
-date: 2021-02-18 20:30:00 -0700
 categories:
 tags:
 ---

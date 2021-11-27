@@ -1,6 +1,5 @@
 ---
 title: "Precipitation!"
-date: 2021-05-13 21:00:00 -0600
 categories:
 tags:
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Nighttime chicken manoeuvres"
-date: 2021-02-07 21:00:00 -0500
 categories:
 tags:
 ---

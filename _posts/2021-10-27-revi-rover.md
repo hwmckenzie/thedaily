@@ -1,6 +1,5 @@
 ---
 title: "Revi Rover"
-date: 2021-10-27 22:00:00 -0600
 categories:
 tags:
 ---

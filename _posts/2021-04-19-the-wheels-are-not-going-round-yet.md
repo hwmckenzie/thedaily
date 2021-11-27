@@ -1,6 +1,5 @@
 ---
 title: "The wheels are not going round... yet!"
-date: 2021-04-19 21:00:00 -0600
 categories:
 tags:
 ---

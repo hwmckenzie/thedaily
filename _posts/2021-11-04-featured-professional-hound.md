@@ -1,6 +1,5 @@
 ---
 title: "Featured professional hound"
-date: 2021-11-04 21:45:00 -0600
 categories:
 tags:
 ---

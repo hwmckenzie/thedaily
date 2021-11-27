@@ -1,6 +1,5 @@
 ---
 title: "The spring rush begins"
-date: 2021-05-10 21:00:00 -0600
 categories:
 tags:
 ---

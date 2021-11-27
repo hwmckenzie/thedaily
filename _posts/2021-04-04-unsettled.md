@@ -1,6 +1,5 @@
 ---
 title: "Unsettled"
-date: 2021-04-04 21:00:00 -0600
 categories:
 tags:
 ---

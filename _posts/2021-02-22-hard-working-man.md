@@ -1,6 +1,5 @@
 ---
 title: "Hard working man"
-date: 2021-02-22 21:15:00 -0700
 categories:
 tags:
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Of mussels and moss"
-date: 2021-03-07 22:00:00 -0500
 categories:
 tags:
 ---

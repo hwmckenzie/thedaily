@@ -1,6 +1,5 @@
 ---
 title: "Beware the eggs of March!"
-date: 2021-03-01 20:30:00 -0700
 categories:
 tags:
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Chicken drama"
-date: 2021-10-24 20:00:00 -0500
 categories:
 tags:
 ---

@@ -1,6 +1,5 @@
 ---
 title: "RIP Sad Chicken"
-date: 2021-04-09 21:00:00 -0500
 categories:
 tags:
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Chicken socialization experiment results"
-date: 2021-10-30 19:30:00 -0600
 categories:
 tags:
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Winter is in the air"
-date: 2021-11-14 17:20:00 -0700
 categories:
 tags:
 ---

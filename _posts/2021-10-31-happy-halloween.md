@@ -1,6 +1,5 @@
 ---
 title: "Happy Halloween!"
-date: 2021-10-31 21:30:00 -0600
 categories:
 tags:
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Dust bathing"
-date: 2021-04-03 22:00:00 -0600
 categories:
 tags:
 ---

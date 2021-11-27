@@ -1,6 +1,5 @@
 ---
 title: "The good student"
-date: 2021-02-26 20:30:00 -0700
 categories:
 tags:
 ---

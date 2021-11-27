@@ -1,6 +1,5 @@
 ---
 title: "Bushwacking in pajamas"
-date: 2021-04-07 21:00:00 -0600
 categories:
 tags:
 ---

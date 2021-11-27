@@ -1,6 +1,5 @@
 ---
 title: "Chicks and dogs"
-date: 2021-03-25 21:15:00 -0600
 categories:
 tags:
 ---

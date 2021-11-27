@@ -1,6 +1,5 @@
 ---
 title: "Love nips from Sadie"
-date: 2021-05-12 22:00:00 -0600
 categories:
 tags:
 ---

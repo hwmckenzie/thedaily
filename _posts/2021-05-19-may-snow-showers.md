@@ -1,6 +1,5 @@
 ---
 title: "May (snow) showers"
-date: 2021-05-19 21:00:00 -0600
 categories:
 tags:
 ---

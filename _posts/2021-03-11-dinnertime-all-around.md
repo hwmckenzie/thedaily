@@ -1,6 +1,5 @@
 ---
 title: "Dinnertime all around"
-date: 2021-03-11 21:00:00 -0700
 categories:
 tags:
 ---

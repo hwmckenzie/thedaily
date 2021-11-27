@@ -1,6 +1,5 @@
 ---
 title: "I know the drill"
-date: 2021-02-23 21:30:00 -0700
 categories:
 tags:
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Eggs a la cricket"
-date: 2021-02-05 20:00:00 -0500
 categories:
 tags:
 ---

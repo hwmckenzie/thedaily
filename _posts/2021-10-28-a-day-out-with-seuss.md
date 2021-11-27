@@ -1,6 +1,5 @@
 ---
 title: "A day out with Seuss"
-date: 2021-10-28 21:00:00 -0600
 categories:
 tags:
 ---

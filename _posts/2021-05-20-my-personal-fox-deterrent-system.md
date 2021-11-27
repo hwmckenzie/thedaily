@@ -1,6 +1,5 @@
 ---
 title: "My personal fox deterrent system"
-date: 2021-05-20 9:30:00 -0600
 categories:
 tags:
 ---

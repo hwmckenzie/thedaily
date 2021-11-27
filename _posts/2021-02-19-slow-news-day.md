@@ -1,6 +1,5 @@
 ---
 title: "Slow news day"
-date: 2021-02-19 22:00:00 -0500
 categories:
 tags:
 ---

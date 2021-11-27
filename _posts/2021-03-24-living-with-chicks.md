@@ -1,6 +1,5 @@
 ---
 title: "Living with chicks"
-date: 2021-03-24 8:45:00 -0600
 categories:
 tags:
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Food, chickens, and frisbees"
-date: 2021-11-22 19:30:00 -0700
 categories:
 tags:
 ---

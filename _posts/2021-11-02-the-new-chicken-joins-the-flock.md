@@ -1,6 +1,5 @@
 ---
 title: "The new chicken joins the flock"
-date: 2021-11-02 20:45:00 -0600
 categories:
 tags:
 ---

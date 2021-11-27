@@ -1,6 +1,5 @@
 ---
 title: "All creatures great and small, smart and silly."
-date: 2021-05-16 21:00:00 -0600
 categories:
 tags:
 ---

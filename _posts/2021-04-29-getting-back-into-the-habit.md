@@ -1,6 +1,5 @@
 ---
 title: "Getting back into the habit"
-date: 2021-04-29 21:00:00 -0600
 categories:
 tags:
 ---

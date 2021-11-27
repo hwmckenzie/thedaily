@@ -1,6 +1,5 @@
 ---
 title: "Hope for Sad Chicken"
-date: 2021-04-05 21:00:00 -0600
 categories:
 tags:
 ---

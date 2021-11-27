@@ -1,6 +1,5 @@
 ---
 title: "She's at it again!"
-date: 2021-04-06 21:00:00 -0600
 categories:
 tags:
 ---

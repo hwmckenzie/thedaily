@@ -1,6 +1,5 @@
 ---
 title: "Chicken report"
-date: 2021-03-18 19:30:00 -0700
 categories:
 tags:
 ---

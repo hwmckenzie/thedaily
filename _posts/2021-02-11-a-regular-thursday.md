@@ -1,6 +1,5 @@
 ---
 title: "A regular Thursday"
-date: 2021-02-11 20:30:00 -0500
 categories:
 tags:
 ---

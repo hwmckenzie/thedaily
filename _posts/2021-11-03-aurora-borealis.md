@@ -1,6 +1,5 @@
 ---
 title: "Aurora Borealis"
-date: 2021-11-03 22:00:00 -0600
 categories:
 tags:
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Clocks and afternoon walks"
-date: 2021-11-07 21:00:00 -0700
 categories:
 tags:
 ---

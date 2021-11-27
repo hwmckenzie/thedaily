@@ -1,6 +1,5 @@
 ---
 title: "Chickens contained"
-date: 2021-03-20 21:30:00 -0600
 categories:
 tags:
 ---

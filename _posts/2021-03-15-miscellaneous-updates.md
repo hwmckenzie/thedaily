@@ -1,6 +1,5 @@
 ---
 title: "Miscellaneous updates"
-date: 2021-03-15 20:45:00 -0500
 categories:
 tags:
 ---

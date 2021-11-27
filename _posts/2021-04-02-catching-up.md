@@ -1,6 +1,5 @@
 ---
 title: "Catching up"
-date: 2021-04-02 20:00:00 -0600
 categories:
 tags:
 ---

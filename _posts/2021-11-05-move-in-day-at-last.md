@@ -1,6 +1,5 @@
 ---
 title: "Move in day, at last!"
-date: 2021-11-05 19:00:00 -0600
 categories:
 tags:
 ---

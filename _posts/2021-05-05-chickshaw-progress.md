@@ -1,6 +1,5 @@
 ---
 title: "Chickshaw progress"
-date: 2021-05-05 21:00:00 -0600
 categories:
 tags:
 ---

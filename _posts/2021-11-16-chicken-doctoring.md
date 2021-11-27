@@ -1,6 +1,5 @@
 ---
 title: "Chicken doctoring"
-date: 2021-11-16 20:30:00 -0700
 categories:
 tags:
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Magic shoes"
-date: 2021-02-17 21:30:00 -0700
 categories:
 tags:
 ---

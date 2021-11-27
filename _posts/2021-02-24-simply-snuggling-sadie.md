@@ -1,6 +1,5 @@
 ---
 title: "Simply snuggling Sadie"
-date: 2021-02-24 21:00:00 -0700
 categories:
 tags:
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Woolly rebuttal"
-date: 2021-03-08 20:30:00 -0500
 categories:
 tags:
 ---

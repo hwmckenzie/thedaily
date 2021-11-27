@@ -1,6 +1,5 @@
 ---
 title: "Frisbee farms"
-date: 2021-04-12 21:00:00 -0600
 categories:
 tags:
 ---

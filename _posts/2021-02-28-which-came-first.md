@@ -1,6 +1,5 @@
 ---
 title: "Which came first"
-date: 2021-02-28 20:45:00 -0700
 categories:
 tags:
 ---

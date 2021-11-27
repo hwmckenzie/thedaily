@@ -1,6 +1,5 @@
 ---
 title: "Longer days"
-date: 2021-02-03 20:00:00 -0500
 categories:
 tags:
 ---

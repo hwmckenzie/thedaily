@@ -1,6 +1,5 @@
 ---
 title: "Danger in the forest?"
-date: 2021-02-15 20:30:00 -0700
 categories:
 tags:
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Remember each day"
-date: 2021-11-11 20:00:00 -0700
 categories:
 tags:
 ---

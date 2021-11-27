@@ -1,6 +1,5 @@
 ---
 title: "Chicken trade"
-date: 2021-11-01 20:30:00:00 -0600
 categories:
 tags:
 ---

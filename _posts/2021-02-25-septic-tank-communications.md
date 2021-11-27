@@ -1,6 +1,5 @@
 ---
 title: "Septic tank communications"
-date: 2021-02-25 20:45:00 -0500
 categories:
 tags:
 ---

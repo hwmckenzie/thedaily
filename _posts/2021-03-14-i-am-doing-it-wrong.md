@@ -1,6 +1,5 @@
 ---
 title: "I am doing it wrong"
-date: 2021-03-14 20:30:00 -0700
 categories:
 tags:
 ---

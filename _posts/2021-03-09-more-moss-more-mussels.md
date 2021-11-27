@@ -1,6 +1,5 @@
 ---
 title: "More moss, more mussels"
-date: 2021-03-09 20:45:00 -0700
 categories:
 tags:
 ---

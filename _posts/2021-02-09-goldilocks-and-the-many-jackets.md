@@ -1,6 +1,5 @@
 ---
 title: "Goldilocks and the many jackets"
-date: 2021-02-09 20:00:00 -0500
 categories:
 tags:
 ---

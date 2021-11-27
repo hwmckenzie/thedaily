@@ -1,6 +1,5 @@
 ---
 title: "Playing catchup"
-date: 2021-04-26 21:00:00 -0600
 categories:
 tags:
 ---

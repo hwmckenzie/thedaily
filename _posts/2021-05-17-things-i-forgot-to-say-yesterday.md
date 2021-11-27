@@ -1,6 +1,5 @@
 ---
 title: "Things I forgot to say yesterday"
-date: 2021-05-17 21:00:00 -0600
 categories:
 tags:
 ---

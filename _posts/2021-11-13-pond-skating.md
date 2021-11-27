@@ -1,6 +1,5 @@
 ---
 title: "Pond skating"
-date: 2021-11-13 20:00:00 -0700
 categories:
 tags:
 ---

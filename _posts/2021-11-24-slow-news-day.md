@@ -1,6 +1,5 @@
 ---
 title: "Slow news day"
-date: 2021-11-24 21:00:00 -0700
 categories:
 tags:
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Your standard Saturday"
-date: 2021-03-27 21:30:00 -0600
 categories:
 tags:
 ---

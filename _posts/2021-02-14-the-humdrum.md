@@ -1,6 +1,5 @@
 ---
 title: "The humdrum"
-date: 2021-02-14 21:30:00 -0500
 categories:
 tags:
 ---

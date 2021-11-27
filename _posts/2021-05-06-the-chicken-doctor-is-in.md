@@ -1,6 +1,5 @@
 ---
 title: "The (chicken) doctor is in"
-date: 2021-05-06 21:00:00 -0600
 categories:
 tags:
 ---

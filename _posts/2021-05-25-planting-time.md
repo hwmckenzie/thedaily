@@ -1,6 +1,5 @@
 ---
 title: "Planting time"
-date: 2021-05-25 21:30:00 -0600
 categories:
 tags:
 ---

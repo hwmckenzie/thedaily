@@ -1,6 +1,5 @@
 ---
 title: "Anything for the chickens"
-date: 2021-02-10 21:00:00 -0500
 categories:
 tags:
 ---

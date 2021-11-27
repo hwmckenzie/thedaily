@@ -1,6 +1,5 @@
 ---
 title: "All about the chickens"
-date: 2021-04-16 21:15:00 -0600
 categories:
 tags:
 ---

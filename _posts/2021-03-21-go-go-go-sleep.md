@@ -1,6 +1,5 @@
 ---
 title: "Go, go, go, sleep"
-date: 2021-03-28 21:15:00 -0600
 categories:
 tags:
 ---

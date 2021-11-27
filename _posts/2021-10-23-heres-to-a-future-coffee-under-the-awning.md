@@ -1,6 +1,5 @@
 ---
 title: "Here's to a future coffee under the awning"
-date: 2021-10-23 20:00:00 -0600
 categories:
 tags:
 ---

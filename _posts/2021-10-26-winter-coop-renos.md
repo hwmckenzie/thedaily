@@ -1,6 +1,5 @@
 ---
 title: "Winter coop renos"
-date: 2021-10-26 21:00:00 -0600
 categories:
 tags:
 ---

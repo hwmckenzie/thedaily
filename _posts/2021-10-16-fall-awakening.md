@@ -1,6 +1,5 @@
 ---
 title: "Fall awakening"
-date: 2021-10-16 10:30:00 -0600
 categories:
 tags:
 ---
