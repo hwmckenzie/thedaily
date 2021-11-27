@@ -1,6 +1,6 @@
 ---
 title: "Sometimes nothing is best"
-date: 2021-11-26 20:30:00 -0700
+date: 2021-11-26 00:00:00 -0700
 categories:
 tags:
 ---
