@@ -14,4 +14,4 @@ Today's photo is of the chickens checking out their newly refreshed coop.
 Hugs,<br />
 Hannah
 
-![2021-12-12]({{ site.url }}{{ site.baseurl }}/assets/images/2021-12.12.JPG)
+![2021-12-12]({{ site.url }}{{ site.baseurl }}/assets/images/2021-12-12.JPG)
