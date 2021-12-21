@@ -11,7 +11,7 @@ Chris was in Edmonton for the day, so when Seuss and I got home, after the usual
 
 Only a few days left now until Christmas Day. I am already thinking about the upcoming New Year and what fresh starts might be waiting for Chris, the dogs, and I. Funny how the rhythm of the seasons makes itself felt. It is a bit early to come to any conclusions, but I am starting to think that 2022 will be about reconnecting. With myself, with Chris, with the dogs, and with the nature that surrounds our house.
 
-Today's photo is from my walk tonight through a quiet snowy forest with the handsome shepherd (and his frisbee, of course!). 
+Today's photo is from my walk tonight through a quiet snowy forest with the handsome shepherd and his frisbee (of course!).
 
 Hugs,<br />
 Hannah
