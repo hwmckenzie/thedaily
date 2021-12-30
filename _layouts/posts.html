@@ -5,7 +5,8 @@ layout: archive
 {{ content }}
 
 
-<ul class="taxonomy__index">
+{% comment %}<ul class="taxonomy__index">{% endcomment %}
+<ul>
   {% assign postsByYearMonth = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%B %Y"' %}
   {% for yearMonth in postsByYearMonth %}
     <li>
