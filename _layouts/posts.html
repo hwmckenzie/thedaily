@@ -5,8 +5,10 @@ layout: archive
 {{ content }}
 
 
+{% comment %} 2020 {% endcomment %}
 <ul class="taxonomy__index">
-  {% assign postsByYearMonth = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%B %Y"' %}
+  {% comment %}{% assign postsByYearMonth = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%B %Y"' %} {% endcomment %}
+  {% assign postsByYearMonth = site.posts | where_exp: "item", "item.year == 2020" | group_by_exp: 'post', 'post.date | date: "%B %Y"' %}
   {% for yearMonth in postsByYearMonth %}
     <li>
       <a href="#{{ yearMonth.name }}">
