@@ -10,7 +10,8 @@ layout: archive
   {% for yearMonth in postsByYearMonth %}
     <li>
       <a href="#{{ yearMonth.name }}">
-        <strong>{{ yearMonth.name }}</strong> <span class="taxonomy__count">{{ yearMonth.items | size }}</span>
+        {% comment %}<strong>{{ yearMonth.name }}</strong> <span class="taxonomy__count">{{ yearMonth.items | size }}</span>{% endcomment %}
+        {{ yearMonth.name }}
       </a>
     </li>
   {% endfor %}
