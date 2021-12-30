@@ -5,8 +5,13 @@ layout: archive
 {{ content }}
 
 {% assign postsByYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+<ul>
+  {% for year in postsByYear %}
+  <li>year.name</li>
+</ul>
+
 {% for year in postsByYear %}
-<h2>year</h2>
+<h2>year.name</h2>
 <ul class="taxonomy__index">
   {% assign filtered_posts = site.posts | where_exp: "item", "item.date <= '2021-01-01'" %}
   {% assign postsByYearMonth = filtered_posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%B %Y"' %}
