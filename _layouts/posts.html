@@ -4,17 +4,22 @@ layout: archive
 
 {{ content }}
 
+{% assign postsByYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% for year in postsByYear %}
+<h2>year</h2>
 <ul class="taxonomy__index">
-  {% assign postsByYearMonth = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%B %Y"' %}
-  {% for yearMonth in postsByYearMonth %}
-    <li>
-      <a href="#{{ yearMonth.name }}">
-        {% comment %}<strong>{{ yearMonth.name }}</strong> <span class="taxonomy__count">{{ yearMonth.items | size }}</span>{% endcomment %}
-        {{ yearMonth.name }} ({{ yearMonth.items | size }})
-      </a>
-    </li>
-  {% endfor %}
+  {% assign filtered_posts = site.posts | where_exp: "post", "post.date <= 2021-01-01" %}
+  {% assign postsByYearMonth = filtered_posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%B %Y"' %}
+    {% for yearMonth in postsByYearMonth %}
+      <li>
+        <a href="#{{ yearMonth.name }}">
+          {% comment %}<strong>{{ yearMonth.name }}</strong> <span class="taxonomy__count">{{ yearMonth.items | size }}</span>{% endcomment %}
+          {{ yearMonth.name }} ({{ yearMonth.items | size }} posts)
+        </a>
+      </li>
+    {% endfor %}
 </ul>
+{% endfor %}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 {% assign postsByYearMonth = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%B %Y"' %}
