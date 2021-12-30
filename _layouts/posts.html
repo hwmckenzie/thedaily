@@ -7,7 +7,7 @@ layout: archive
 {% comment %}
 <ul class="taxonomy__index">
   {% assign postsByYearMonth = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y %b"' %}
-  {% for post in postsByYearMonth %}
+  {% for yearMonth in postsByYearMonth %}
     <li>
       <a href="#{{ yearMonth.name }}">
         <strong>{{ yearMonth.name }}</strong> <span class="taxonomy__count">{{ yearMonth.items | size }}</span>
@@ -19,7 +19,7 @@ layout: archive
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 {% assign postsByYearMonth = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y %b"' %}
-{% for post in postsByYearMonth %}
+{% for yearMonth in postsByYearMonth %}
   <section id="{{ yearMonth.name }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ yearMonth.name }}</h2>
     <div class="entries-{{ entries_layout }}">
