@@ -7,7 +7,8 @@ layout: archive
 {% assign postsByYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 <ul>
   {% for year in postsByYear %}
-  <li>year.name</li>
+    <li>year.name</li>
+  {% endfor %}
 </ul>
 
 {% for year in postsByYear %}
