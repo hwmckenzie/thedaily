@@ -15,5 +15,3 @@ Today's photo is of a crocus which recently emerged in one of our garden boxes a
 
 Hugs,<br />
 Hannah
-
-![2020-05-14]({{ site.url }}{{ site.baseurl }}/assets/images/2020-05-14.JPG)
