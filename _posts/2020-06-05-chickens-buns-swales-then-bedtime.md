@@ -1,6 +1,6 @@
 ---
 title: "Chickens, buns, swales, then bedtime"
-date: 2020-06-04 12:00:00 -0700
+date: 2020-06-05 12:00:00 -0700
 categories:
 tags:
 ---
@@ -22,4 +22,4 @@ Today's photo is from a trail camera we have set up in the conservation area. Th
 Hugs,<br />
 Hannah
 
-![2020-6-4]({{ site.url }}{{ site.baseurl }}/assets/images/2020-6-4.JPG)
+![2020-6-5]({{ site.url }}{{ site.baseurl }}/assets/images/2020-6-5.JPG)
