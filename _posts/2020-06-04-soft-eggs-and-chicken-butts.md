@@ -1,6 +1,6 @@
 ---
 title: "Soft eggs and chicken butts"
-date: 2020-06-03 12:00:00 -0700
+date: 2020-06-04 12:00:00 -0700
 categories:
 tags:
 ---
@@ -16,4 +16,4 @@ Today's photo is one of our more adventurous chickens checking out the garden by
 Hugs,<br />
 Hannah
 
-![2020-6-3]({{ site.url }}{{ site.baseurl }}/assets/images/2020-6-3.JPG)
+![2020-6-4]({{ site.url }}{{ site.baseurl }}/assets/images/2020-6-4.JPG)
