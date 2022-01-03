@@ -18,4 +18,4 @@ Today's photo is from this morning, looking out past our barn. I was struck by h
 Hugs,<br />
 Hannah
 
-![2021-1-2]({{ site.url }}{{ site.baseurl }}/assets/images/2020-1-2.JPG)
+![2022-1-2]({{ site.url }}{{ site.baseurl }}/assets/images/2022-1-2.JPG)
