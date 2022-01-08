@@ -18,4 +18,4 @@ Today's photo is from a little while ago, but features three out of five sheep e
 Hugs,<br />
 Hannah
 
-![2020-12-1]({{ site.url }}{{ site.baseurl }}/assets/images/2020-12-1/.JPG)
+![2020-12-1]({{ site.url }}{{ site.baseurl }}/assets/images/2020-12-1.JPG)
