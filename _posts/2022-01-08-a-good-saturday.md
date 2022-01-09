@@ -12,4 +12,4 @@ Today's photo is of Seuss looking handsome on our walk this afternoon. I was kne
 Hugs,<br />
 Hannah
 
-![2020-1-8]({{ site.url }}{{ site.baseurl }}/assets/images/2020-1-8.JPG)
+![2022-1-8]({{ site.url }}{{ site.baseurl }}/assets/images/2022-1-8.JPG)
