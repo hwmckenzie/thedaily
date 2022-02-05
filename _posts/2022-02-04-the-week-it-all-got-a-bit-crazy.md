@@ -22,4 +22,4 @@ Today's photo is of the big dogs and I out for a photo shoot on February 2nd for
 Hugs,<br />
 Hannah
 
-![2020-2-4]({{ site.url }}{{ site.baseurl }}/assets/images/2020-2-4.JPG)
+![2022-2-4]({{ site.url }}{{ site.baseurl }}/assets/images/2022-2-4.JPG)
