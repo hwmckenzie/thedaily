@@ -1,6 +1,6 @@
 ---
 title: "The February Bulletin"
-date: 2022-02-27 12:00:00 -0700
+date: 2022-02-27 10:30:00 -0700
 categories:
 tags:
 ---
