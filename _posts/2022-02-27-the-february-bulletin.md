@@ -20,4 +20,4 @@ The photo to accompany this bulletin is of the dogs catching up on the news duri
 Hugs,<br />
 Hannah
 
-![2022-2-27]({{ site.url }}{{ site.baseurl }}/assets/images/2022-2-27.JPG)
+![2022-2-27]({{ site.url }}{{ site.baseurl }}/assets/images/2022-2-27.jpg)
