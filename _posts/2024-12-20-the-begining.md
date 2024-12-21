@@ -9,6 +9,8 @@ After graduating from the U of A and working as a sessional lecturer for a semes
 
 Once the paperwork was done, Steph and I walked her around for what seemed like hours. I recall it was cold and wet and icy. I can't remember why we did this, but it was probably related to something I had read in a book. I was determined to be a good dog owner, which for me meant reading as much as I could and trying to implement all of it. Anyway, once we got home Sadie went around exploring our first floor flat. The next thing I knew, Steph was pointing out that my new dog had just pooped in her room. And that was my first lesson in how dogs keep humans solidly grounded in reality!
 
+Here's a photo from the day Sadie came home with me. I can't get over how young we both look!
+
 Hugs,<br />
 Hannah
 
