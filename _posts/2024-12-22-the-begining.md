@@ -1,6 +1,6 @@
 ---
 title: "The begining"
-date: 2024-12-20 00:00:00 -0500
+date: 2024-12-22 08:26:00 -0700
 categories:
 tags:
 ---
@@ -16,4 +16,4 @@ Hannah
 
 ps: My childhood dog was named Sabie (short for Sabrina), so I don't think it was a coincidence that I ended up with Sadie.
 
-![2024-12-20]({{ site.url }}{{ site.baseurl }}/assets/images/2024-12-20-sadie-and-hannah-first-day.jpg)
+![2024-12-22]({{ site.url }}{{ site.baseurl }}/assets/images/2024-12-22-sadie-and-hannah-first-day.jpg)
